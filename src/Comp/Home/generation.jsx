@@ -25,7 +25,7 @@ const Generation = () => {
               comprehensive questions and accurate answers. Whether you're a
               student looking to study more efficiently, a researcher in need of
               quick references, or a knowledge seeker eager to explore vast
-              volumes of information, X empowers you to delve deep into the
+              volumes of information, Intellisum empowers you to delve deep into the
               texts that matter most to you.
             </Text>
             {/* <Text width={{ _: "100%", lg: "700px" }} py={3}>

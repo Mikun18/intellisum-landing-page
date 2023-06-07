@@ -14,7 +14,8 @@ const Button = styled('button')(
                 bg: 'transparent',
                 fontSize: '12px',
                 borderRadius: '5px',
-                padding: '12px'
+                padding: '12px',
+                color: 'black'
             },
             secondary: {
                 bg: 'black',

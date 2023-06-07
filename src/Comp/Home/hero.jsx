@@ -20,8 +20,7 @@ const Hero = () => {
               width={{ _: "100%", md: "400px", lg: "590px" }}
               py={2}
             >
-              Save time and extract valuable insights with IntelliSum's AI
-              summarization.
+              Manage your testing process end to end with Intellisum.
             </Text>
 
             <Box my={{_:4, sm:5}}>

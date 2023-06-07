@@ -24,8 +24,7 @@ const Struggle = () => {
               fontSize={{ _: 3 }}
             >
               IntelliSum solves the pain points of time-consuming document
-              processing, lack of interactivity, and inefficient customer
-              service, empowering you with AI-driven solutions."
+              processing and lack of interactivity, empowering you with AI-driven solutions."
             </Text>
           </Box>
         </Flex>
