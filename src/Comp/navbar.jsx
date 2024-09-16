@@ -23,7 +23,7 @@ const Navbar = () => {
               <Text mx={5} fontSize={3} color="#161616">
                 Company
               </Text>
-              <Text>Pricing</Text>
+              <Text>Pricin</Text>
             </Flex>
           </Box>
         </Flex>
